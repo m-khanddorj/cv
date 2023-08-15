@@ -267,7 +267,6 @@ GEM
     unf_ext (0.0.8.2)
     unicode-display_width (1.8.0)
     verbal_expressions (0.1.5)
-    wdm (0.1.1)
     webrick (1.8.1)
 
 PLATFORMS
@@ -280,7 +279,7 @@ DEPENDENCIES
   jekyll-github-metadata
   jekyll-include-cache
   jekyll-sitemap
-  wdm (>= 0.1.0)
+  listen
   webrick
 
 BUNDLED WITH
